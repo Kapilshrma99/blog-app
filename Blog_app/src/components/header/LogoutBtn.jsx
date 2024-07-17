@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Header() {
+function LogoutBtn() {
   return (
     <div>
-      <h1>Header</h1>
+      
     </div>
   )
 }
 
-export default Header
+export default LogoutBtn
